@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.File;
 
-public class dz3gb3 {
+public class dz4gb4 {
     private static final String LOGFILENAME = "calc.log";
 
     private static PrintWriter logWriter;
